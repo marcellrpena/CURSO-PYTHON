@@ -5,7 +5,7 @@ while n2 == '1':
     altura = float(input('Digite a altura da parede em metros: '))
     area = largura * altura
     tinta = area // 2
-    print('A área total da sua parede é: {} \nA quantidade de tinta necessária para pintar a parede é: {}'
+    print('A área total da sua parede é: {} m² \nA quantidade de tinta necessária para pintar a parede é: {} litros'
           .format(area, tinta))
     n2 = input('Para fazer um novo calculo digite 1, para sair digite 0:')
     while not (n2 == '1' or n2 == '0'):
