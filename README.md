@@ -2,7 +2,7 @@
 
 ## INTRODUÇÃO 
   Ter um certificado nem sempre quer dizer que você domina o assunto que foi abordado em um determinado curso,
-pensando nisso, deixo esse repository como uma amostra de tudo que foi feito por mim dentro do curso, Atividades
+pensando nisso, deixo esse repositorio como uma amostra de tudo que foi feito por mim dentro do curso, Atividades
 Exercícios e Desafios, para você recrutador verificar o aprendizado alcançado durante a trajetória do curso.
 
 ## CURSO DE PYTHON MODULO BÁSICO DO cursoemvideo.com
